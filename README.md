@@ -13,3 +13,5 @@ Notes on how to implement it are in the library and is just a sample to spur dis
 This concept could be extended to create kind of a CSS for Omnis windows. The current theme could be read from a preferences row in the database and applied to each type of object in the window. In this way, you could allow users to set the colors and style for any type of object from a preferences pane.
 
 Feel free to use this in anyway you wish.
+
+March 18 2017 - Updated. Was using Vertical placement instead of Horizontal placement on the shadow for $top offset.
